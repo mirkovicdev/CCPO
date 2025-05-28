@@ -1,6 +1,6 @@
 # Cardinality-Constrained Portfolio Optimization
 
-This mini-project explores **portfolio optimization under cardinality constraints**, where the number of assets selected in a portfolio is explicitly limited. Using integer programming, the project demonstrates how adding a cardinality constraint transforms a convex Markowitz optimization problem into a **combinatorial, non-convex challenge**—motivating the need for advanced solvers and quantum-inspired approaches.
+This project explores **portfolio optimization under cardinality constraints**, where the number of assets selected in a portfolio is explicitly limited. Using integer programming, the project demonstrates how adding a cardinality constraint transforms a convex Markowitz optimization problem into a **combinatorial, non-convex challenge**—motivating the need for advanced solvers and quantum-inspired approaches.
 
 ---
 
